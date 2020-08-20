@@ -9,16 +9,3 @@ newHeader.textContent = "YOUR-NAME is the champion"
     // header.appendChild(h1)
 
 
-
-// let header = document.getElementById("header#victory");
-// header.innerHTML = "<h1>victory</h1>";
-// let newHeader = document.querySelector("header#victory");
-// element.innerHTML = "<h1>victory</h1>";
-// document.querySelector("header").innerHTML = "<h1>victory</h1>";
-
-// let element = document.querySelector("header");
-// element.innerHTML = "<h1>victory</h1>";
-// let header = document.getElementById("header");
-// header.innerHTML = "<h1>victory</h1>";
-// let newHeader = document.getElementById("header");
-// header.innerHTML = "<h1>victory</h1>";
